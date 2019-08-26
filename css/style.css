@@ -1,0 +1,14 @@
+body { padding-top: 70px; }
+
+.btn-separation-left {
+	margin-left:5px;
+}
+
+.button-row {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+input.ng-invalid {
+	border: rgba(215, 44, 44, 0.6) solid 1px;
+}
